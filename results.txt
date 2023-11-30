@@ -1,0 +1,5 @@
+Computer Name: JARVIS
+Date of Test: 2023-11-30 17:35:26
+Bubble Sort Time: 3.503119 seconds
+Quick Sort Time: 0.009331 seconds
+
