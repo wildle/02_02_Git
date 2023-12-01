@@ -3,3 +3,8 @@ Date of Test: 2023-11-30 17:35:26
 Bubble Sort Time: 3.503119 seconds
 Quick Sort Time: 0.009331 seconds
 
+Computer Name: LAPTOP-50L3C7JL
+Date of Test: 2023-12-01 10:39:10
+Bubble Sort Time: 12.054545 seconds
+Quick Sort Time: 0.047372 seconds
+
